@@ -23,7 +23,7 @@ Or install it yourself as:
 
 ```ruby
 num = 38520000023237 # any credit card number you want to check.
-CheckDigitOfCreditCard.check_digit(num)
+CheckDigitOfCreditCard.check_digit(num) # => true
 ```
 
 ## Development
